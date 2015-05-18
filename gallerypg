@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<!--Let's begin it Apps PERWEBHC-->
+<html>
+  <head>DATRIX Dance Studio</head>
+  <body>
+    <div class="header" role="banner">
+      <ul>
+        <li>HOME</li>
+        <li class="active">GALLERY</li>
+        <li>OUR EVENTS</li>
+        <li>JOIN US</li>
+      </ul>
+    </div>
+  </body>
+</html>
